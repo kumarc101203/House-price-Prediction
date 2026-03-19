@@ -92,8 +92,11 @@ pip install -r requirements.txt
 #Run the app:
 
 streamlit run app.py
+```
+<img width="1838" height="822" alt="image" src="https://github.com/user-attachments/assets/0bc2d661-b572-4681-8797-01e62d5dd98c" />
 
 ---------------------------------------------------------
+```
 *⚠️ Limitations*
 
 - Dataset is highly linear and likely synthetic
@@ -111,7 +114,7 @@ streamlit run app.py
 - Deploy on cloud
 
 - Add API support
-
+```
 *👤 Author*
 
 Kumar
