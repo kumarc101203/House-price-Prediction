@@ -66,7 +66,8 @@ This project builds a **regression model** and provides an **interactive Streaml
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
+```
 house-price-prediction/
 │
 ├── app.py
@@ -76,8 +77,7 @@ house-price-prediction/
 ├── house_price_regression_dataset.csv
 ├── requirements.txt
 └── README.md
----
-
+```
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
