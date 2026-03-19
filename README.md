@@ -67,9 +67,8 @@ This project builds a **regression model** and provides an **interactive Streaml
 ---
 
 ## 📂 Project Structure
-
-
 house-price-prediction/
+│
 ├── app.py
 ├── train_model.py
 ├── model.pkl
@@ -77,8 +76,6 @@ house-price-prediction/
 ├── house_price_regression_dataset.csv
 ├── requirements.txt
 └── README.md
-
-
 ---
 
 ## ⚙️ Installation & Setup
